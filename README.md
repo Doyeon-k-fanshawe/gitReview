@@ -15,7 +15,7 @@ TODO: Write a team description
 
 
 ## Credits
-shah_H_group
+group name
 
 TODO: Write credits
 
