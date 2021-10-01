@@ -2,7 +2,7 @@
 
 
 # $Git & GitHub - Homework #1
-TODO: Write a team description
+TODO: Write a business/team/entity description
 
 
 ## Contributing
