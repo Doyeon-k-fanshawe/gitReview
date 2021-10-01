@@ -15,7 +15,7 @@ TODO: Write a business/team/entity description
 
 
 ## Credits
-group name
+Put your group name
 
 TODO: Write credits
 
